@@ -33,6 +33,13 @@ h1{
      text-align: left;
      
 }
+#img{
+    display:flex;
+    justify-content: flex-start;
+    width: 400px;
+    height: 400px;
+    padding: 90;
+}
 
 
 
